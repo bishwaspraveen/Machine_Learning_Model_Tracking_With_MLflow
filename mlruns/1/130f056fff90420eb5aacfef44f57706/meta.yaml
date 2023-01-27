@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bishw/OneDrive/Desktop/Source_codes/Machine_Learning_Model_Life-Cycle_With_MLflow/mlruns/1/130f056fff90420eb5aacfef44f57706/artifacts
+end_time: 1674780086742
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 130f056fff90420eb5aacfef44f57706
+run_name: placid-boar-140
+run_uuid: 130f056fff90420eb5aacfef44f57706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674780082915
+status: 3
+tags: []
+user_id: bishw

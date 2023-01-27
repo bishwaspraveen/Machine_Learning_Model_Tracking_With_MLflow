@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/bishw/OneDrive/Desktop/Source_codes/Machine_Learning_Model_Life-Cycle_With_MLflow/mlruns/1
+creation_time: 1674780082710
+experiment_id: '1'
+last_update_time: 1674780082710
+lifecycle_stage: active
+name: basic_classifier

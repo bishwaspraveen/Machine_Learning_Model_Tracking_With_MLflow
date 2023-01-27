@@ -1,0 +1,5 @@
+#command to use file system to fecth data and project it onto MLFlow UI
+mlflow ui --backend-store-uri file:///C:\Users\bishw\OneDrive\Desktop\Source_codes\Machine_Learning_Model_Life-Cycle_With_MLflow\Machine_Learning_Model_Tracking\mlruns
+
+#command to use sqlite db connection to fetch data and project it onto MLFlow UI
+mlflow server --backend-store-uri sqlite:///C:\Users\bishw\OneDrive\Desktop\Source_codes\Machine_Learning_Model_Life-Cycle_With_MLflow\Machine_Learning_Model_Tracking\mlflow.db --default-artifact-root file:///C:\Users\bishw\OneDrive\Desktop\Source_codes\Machine_Learning_Model_Life-Cycle_With_MLflow\Machine_Learning_Model_Tracking\artifacts

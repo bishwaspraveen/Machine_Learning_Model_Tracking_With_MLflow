@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/bishw/OneDrive/Desktop/Source_codes/Machine_Learning_Model_Life-Cycle_With_MLflow/mlruns/1/884cfb3269ee4136b49fb70a02aa16b1/artifacts
+end_time: 1674780865181
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 884cfb3269ee4136b49fb70a02aa16b1
+run_name: exultant-stag-739
+run_uuid: 884cfb3269ee4136b49fb70a02aa16b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674780862006
+status: 3
+tags: []
+user_id: bishw
